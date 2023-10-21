@@ -1,7 +1,0 @@
-ID,Nombre,Cantidad Disponible,Cantidad Vendidos,Estado,Precio,Categoria,Mililitros,Tipo,Gramos,Sabor,Tamaño
-101,Bebida1,100,50,Disponible,2.99,Bebida,330,Energética,0,0,null,
-102,Snack1,50,25,Disponible,1.49,Snacks,null,null,100,Barbacoa,Individual
-103,Cereal1,75,10,No disponible,3.49,Cereal,null,null,500,,Familiar
-104,Bebida2,90,45,Disponible,2.49,Bebida,500,Natural,null,null,null,
-105,Snack2,45,20,No disponible,1.29,Snacks,null,null,75,Picante,Individual
-106,Cereal2,60,12,Disponible,3.99,Cereal,null,null,750,null,Familiar
